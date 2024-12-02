@@ -1,0 +1,40 @@
+﻿  Camera.cpp
+  EBO.cpp
+  loader.cpp
+  Main.cpp
+  Mesh.cpp
+C:\Users\ceust\Downloads\SimpleFPSGame_FerreCeustermans\SimpleFPSGame_FerreCeustermans\Mesh.cpp(76,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+C:\Users\ceust\Downloads\SimpleFPSGame_FerreCeustermans\SimpleFPSGame_FerreCeustermans\Model.cpp(233,93): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\ceust\Downloads\SimpleFPSGame_FerreCeustermans\SimpleFPSGame_FerreCeustermans\Model.cpp(240,95): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+  sh_Overview.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\ceust\Downloads\SimpleFPSGame_FerreCeustermans\SimpleFPSGame_FerreCeustermans\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  glad.c
+  LINK : C:\Users\ceust\Downloads\SimpleFPSGame_FerreCeustermans\SimpleFPSGame_FerreCeustermans\x64\Debug\SimpleFPSGame_FerreCeustermans.exe not found or not built by the last incremental link; performing full link
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(platform.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_module.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_joystick.obj)' or at ''; linking object as if no debug info
+  SimpleFPSGame_FerreCeustermans.vcxproj -> C:\Users\ceust\Downloads\SimpleFPSGame_FerreCeustermans\SimpleFPSGame_FerreCeustermans\x64\Debug\SimpleFPSGame_FerreCeustermans.exe
